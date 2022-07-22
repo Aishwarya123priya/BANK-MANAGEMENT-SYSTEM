@@ -9,4 +9,4 @@ The Bank Management System basically contain all the function that are done at t
 #### Deposit -> function to return balance amount
 #### A/C type() -> function to return type of account
 ## How it is used
-First, run the program the, choose the options accordingly.
+First, run the program then, choose the options accordingly.
